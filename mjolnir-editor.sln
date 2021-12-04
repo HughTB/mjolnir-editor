@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mjolnir-editor", "mjolnir-editor.csproj", "{DD7933E0-D705-496F-B1B2-E5D68BBC9EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7933E0-D705-496F-B1B2-E5D68BBC9EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7933E0-D705-496F-B1B2-E5D68BBC9EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7933E0-D705-496F-B1B2-E5D68BBC9EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7933E0-D705-496F-B1B2-E5D68BBC9EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A84D4D-F2F8-465F-98C8-3E2A543F6A84}
+	EndGlobalSection
+EndGlobal
